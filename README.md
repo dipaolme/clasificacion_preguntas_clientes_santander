@@ -1,4 +1,4 @@
-# clasificacion_preguntas_clientes_santander
+# Clasificacion_preguntas_clientes_santander
 
 Santander nos propone un desafío basado en NLP, donde lo que se busca es entender las preguntas que hacen los clientes con el fin de ser más asertivos en las respuestas, 
 esto es fundamental para brindar una mejor experiencia al usuario.
